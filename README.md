@@ -25,6 +25,10 @@ We should be able to answer there any simple queries, general comments or reques
 ## Documentation
 The documentation and guides can be found at [Read the docs](https://nethereum.readthedocs.io/en/latest/). For live examples you can check the workbooks project [Nethereum.Workbooks](https://github.com/Nethereum/Nethereum.Workbooks/blob/master/docs/index.md) 
 
+## Tutorials
+
+* [Programming Ethereuem DApp in C#](http://xc.hubwiz.com/course/5b6048c3c02e6b6a59171dee?affid=github7878)
+
 ## Features
 
 * JSON RPC / IPC Ethereum core methods.
